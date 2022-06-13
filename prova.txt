@@ -1,0 +1,4 @@
+Faça um jogo no VisualG: No jogo o jogador terá dez tentativas de acertar 
+o número que você deixará previamente definido. A cada tentativa você deverá dar uma dica para jogador.
+Se o jogador acertar, mostre a quantidade de tentativas dele e dê os parabéns. Se esgotadas as dez tentativas
+sem o jogador acertar, ele perdeu o jogo.
